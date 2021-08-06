@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainerregan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate on Web Development and Online Marketplace Development
 - 📫 How to reach me:
   - Email: rainer@rainerregan.com
