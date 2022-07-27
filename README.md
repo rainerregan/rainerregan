@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainerregan
 - 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Android and Website Development.
 - 📫 How to reach me:
   - Email: rainer@merahputihdevelopment.com
