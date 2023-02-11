@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Android and Website Development.
 - 📫 How to reach me:
-  - Email: rainer@merahputihdevelopment.com
+  - Email: regan@exacode.io
+  - Website: exacode.io
   - LinkedIn: https://www.linkedin.com/in/rainerregan/
 
 <!---
