@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rainerregan
 - 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning MERN Stack and Node JS Development
 - 💞️ I’m looking to collaborate on Android and Website Development.
 - 📫 How to reach me:
   - Email: regan@exacode.io
