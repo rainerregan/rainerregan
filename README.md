@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning iOS Development at Apple Developer Academy
 
-- 👨‍💻 All of my projects are available at [exacode.io](exacode.io)
+- 👨‍💻 All of my projects are available at [https://exacode.io](https://exacode.io)
 
-- 📝 I regularly write articles on [exacode.io/posts](exacode.io/posts)
+- 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/posts)
 
 - 💬 Ask me about **android, laravel, PHP, javascript**
 
