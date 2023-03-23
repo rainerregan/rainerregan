@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rainer Regan</h1>
 <h3 align="center">A Full-stack Developer</h3>
 
-- 🌱 I’m currently learning **React, Flutter, NodeJs**
+- 🌱 I’m currently learning iOS Development at Apple Developer Academy
 
 - 👨‍💻 All of my projects are available at [exacode.io](exacode.io)
 
