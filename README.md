@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/posts)
 
-- 💬 Ask me about **android, laravel, PHP, javascript**
+- 💬 Ask me about **android, laravel, PHP, javascript, MVC Architecture**
 
 - 📫 How to reach me **contact@exacode.io**
 
