@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rainer Regan</h1>
 <h3 align="center">A Full-stack Developer</h3>
 
-- 🌱 I’m currently learning iOS Development at Apple Developer Academy
+- 🌱 Still learning
 
 - 👨‍💻 All of my projects are available at [https://exacode.io](https://exacode.io)
 
 - 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/posts)
 
-- 💬 Ask me about **android, laravel, PHP, javascript, MVC Architecture**
+- 💬 Ask me about **NextJS, Javascript, TypeScript, React, and Web Development**
 
-- 📫 How to reach me **contact@exacode.io**
+- 📫 How to reach me **regan@exacode.io**
 
 ### Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=rainerregan&count_private=true)
