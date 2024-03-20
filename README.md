@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://exacode.io](https://exacode.io)
 
-- 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/posts)
+- 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/blogs)
 
 - 💬 Ask me about **NextJS, Javascript, TypeScript, React, and Web Development**
 
