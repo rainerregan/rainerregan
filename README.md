@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rainer Regan</h1>
 <h3 align="center">A Full-stack Developer</h3>
 
-- 🌱 Still learning
+- 🌱 Still learning about everything
 
-- 👨‍💻 All of my projects are available at [https://exacode.io](https://exacode.io)
+- 👨‍💻 Visit my portfolio on [https://rainerregan.com](https://rainerregan.com)
 
-- 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/blogs)
+- 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/blogs) and [https://rainerregan.medium.com/](https://rainerregan.medium.com/)
 
 - 💬 Ask me about **NextJS, Javascript, TypeScript, React, and Web Development**
 
