@@ -3,9 +3,7 @@
 
 - 🌱 Still learning about everything
 
-- 👨‍💻 Visit my portfolio on [https://rainerregan.com](https://rainerregan.com)
-
-- 📝 I regularly write articles on [https://exacode.io/posts](https://exacode.io/blogs) and [https://rainerregan.medium.com/](https://rainerregan.medium.com/)
+- 📝 I regularly write articles on [https://exacode.io/blog](https://exacode.io/blog) and [https://rainerregan.medium.com/](https://rainerregan.medium.com/)
 
 - 💬 Ask me about **NextJS, Javascript, TypeScript, React, and Web Development**
 
